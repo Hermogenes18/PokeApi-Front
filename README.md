@@ -3,6 +3,10 @@ Prueba técnica para el puesto de desarrollador junior.
 
  - Realizado con la RESTful API [POKEAPI](https://pokeapi.co/).
 
+## DEMO EN VIVO
+
+- Demo del proyecto desplegado en github pages https://hermogenes18.github.io/PokeApi-Front/
+
 ## DESCRIPCION
 
 La función del proyecto es emular una pokedex del juego pokemon.
