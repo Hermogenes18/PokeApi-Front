@@ -1,0 +1,46 @@
+header{
+    height: 80px;
+    display: flex;
+    align-items: center;
+    padding: 0 10px;
+    justify-content: space-between;
+    background: linear-gradient(
+        to right,
+        #6188ff,
+        #6188ff 70%,
+        #71a4f3 71%,
+        #71a4f3 97%,
+        #8ec0f0 100% 
+    );
+    a{
+        color: white;
+        text-decoration: none;
+        background-color: #4379cf;
+        height: 50px;
+        line-height: 50px;
+        padding: 0 50px;
+        border-radius: 50px;
+    }
+}
+
+#tituloContainer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 5px;
+    background-color: #88daf2;
+    width: 300px;
+    border-radius: 50px;
+    height: 60px;
+    color: white;
+    border: solid 3px black;
+    img{
+        height: 40px;
+    }
+    h1{
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        
+        -webkit-text-stroke: 1px #000000;
+    }
+}
+

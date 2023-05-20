@@ -1,0 +1,14 @@
+#container{
+    border: 3px solid #8cbbf1;
+    outline: 5px solid #f9e55c;
+    max-width: 500px;
+    border-radius: 15px;
+    aspect-ratio: 1;
+    background: repeating-linear-gradient(
+        to bottom,
+        #ffffff,
+        #ffffff 15px,
+        #c9e2f4 15px,
+        #c9e2f4 30px,
+    );
+}
