@@ -9,7 +9,7 @@ Prueba técnica para el puesto de desarrollador junior.
 
 ## DESCRIPCION
 
-La función del proyecto es emular una pokedex del juego pokemon.
+Proyecto realizado en Angular, la función del proyecto es emular una pokedex del juego pokemon.
 
 - Lista de pokemon que se pueden seleccionar.
 
